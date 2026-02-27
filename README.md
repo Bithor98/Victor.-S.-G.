@@ -26,3 +26,7 @@
 
 ## Contacto
 - LinkedIn: No pego mi enlace, ya que no tenbgo nada relevante sobre lo que me estoy formando, vengo de unos sectores distintos a lo que busco.
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=TU_USUARIO&show_icons=true&theme=tokyonight&hide_border=true" />
+</p>
